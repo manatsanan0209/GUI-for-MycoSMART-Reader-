@@ -1,5 +1,4 @@
 #Past_Results Page
-#เชื่อมให้ทีน้องพลอยงงงงงงงงงงงงง
 from PyQt5.QtWidgets import QWidget, QLabel, QPushButton, QGraphicsDropShadowEffect, QComboBox, QCheckBox, QRadioButton, QButtonGroup, QLineEdit
 from PyQt5.QtGui import QPixmap, QColor
 
